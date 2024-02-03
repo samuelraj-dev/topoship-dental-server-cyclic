@@ -14,8 +14,6 @@ node_modules
 /datadir
 /out-tsc
 /server/build
-/src/*.js
-*js.map
 # dependencies
 /node_modules
 /server/node_modules
